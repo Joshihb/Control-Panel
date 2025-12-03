@@ -1,1 +1,10 @@
 node_modules/
+DatabaseServer/DatabaseServer.sqlproj
+DatabaseServer/.vscode/tasks.json
+.github/dependabot.yml
+.devcontainer/mssql/installSQLtools.sh
+.devcontainer/mssql/postCreateCommand.sh
+.devcontainer/mssql/setup.sql
+.devcontainer/devcontainer.json
+.devcontainer/docker-compose.yml
+.devcontainer/Dockerfile
