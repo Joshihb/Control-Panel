@@ -8,3 +8,4 @@ DatabaseServer/.vscode/tasks.json
 .devcontainer/devcontainer.json
 .devcontainer/docker-compose.yml
 .devcontainer/Dockerfile
+.vscode/launch.json
